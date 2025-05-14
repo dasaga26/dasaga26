@@ -1,44 +1,74 @@
 # 👋 ¡Hola! Soy Dani
 
-Soy un desarrollador web en formación, apasionado por el aprendizaje constante, la tecnología y crear proyectos útiles y bonitos. Actualmente estoy cursando un FP de Desarrollo de Aplicaciones Web y desarrollando proyectos personales para mejorar mis habilidades.
-
-## 💻 Tecnologías y herramientas que estoy usando
-
-- 🧱 HTML | CSS | JavaScript
-- ⚙️ PHP | SQL | MySQL
-- 🧠 Laravel | Symfony (aprendiendo)
-- 🎨 Bootstrap | TailwindCSS
-- 📦 Git | GitHub
-
-## 🚀 Proyectos destacados
-
-- 🎓 **Plataforma de cursos tipo Udemy**  
-  Aplicación web donde se pueden crear, listar y gestionar cursos de informática. Incluye funcionalidades CRUD, autenticación y una base de datos estructurada.
-
-- 📚 **Marketplace de libros de segunda mano** (tipo Wallapop)  
-  Proyecto en desarrollo centrado en la compra y venta de libros. Incluye categorización, filtros avanzados y diseño adaptado a usuarios lectores.
-
-## 🎯 Objetivos actuales
-
-- Finalizar mis proyectos del ciclo formativo
-- Aprender sobre diseño UX/UI y accesibilidad web
-- Mejorar mi lógica de programación y estructura de código
-- Contribuir a proyectos open source
-
-## 🌱 Me interesa...
-
-- El desarrollo web full stack
-- El diseño limpio y funcional
-- La filosofía, psicología y desarrollo personal
-- Los videojuegos con tramas profundas y temas existenciales
-
-## 📫 Contacto
-
-Puedes encontrarme por aquí:  
-[LinkedIn](https://www.linkedin.com/in/tu-usuario/) | [Email](mailto:tu@email.com) *(si quieres añadirlo)*
+Soy estudiante de Desarrollo de Aplicaciones Web. Me apasiona crear proyectos funcionales aplicando el modelo **MVC (Modelo - Vista - Controlador)** y aprendiendo a escribir código limpio y estructurado. Me gusta construir cosas desde cero y ver cómo cobran vida en el navegador.
 
 ---
 
-> *“Elige una vida significativa, no cómoda.”* – Inspiración personal
+## 🚀 Tecnologías y Conocimientos
 
-Gracias por visitar mi perfil 😊
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge" alt="JavaScript"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Backend-PHP-purple?style=for-the-badge" alt="PHP"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=for-the-badge" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NoSQL-MongoDB-brightgreen?style=for-the-badge" alt="MongoDB"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VersionControl-Git-orange?style=for-the-badge" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hosting-GitHub-black?style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 📁 Proyectos destacados
+
+- 🎓 **Plataforma de cursos**  
+  Aplicación web con CRUD completo para cursos. Solamente java.
+
+- 📚 **Marketplace de libros de segunda mano**  
+  Proyecto en desarrollo inspirado en Wallapop, centrado en la compraventa de libros. Incluye filtros, categorías, buscador, likes, register, login...
+
+---
+
+## 🎯 Objetivos actuales
+
+- Aprender JavaScript avanzado
+- Desarrollar una web completa con autenticación de usuarios
+- Aprender a utilizar algun framework
+- Mejorar mis conocimientos sobre programacion centrado sobre todo en backend
+---
+
+## 🧠 Sobre mí
+
+- Me gusta la tecnología, la filosofía y el deporte
+- Estoy en constante aprendizaje y me encanta mejorar cada día
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasaga26&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasaga26&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+> *"El conocimiento es poder, pero la práctica lo convierte en habilidad."*
+
+¡Gracias por visitar mi perfil! 🚀
