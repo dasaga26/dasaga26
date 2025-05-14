@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre o Alias]
+# 👋 ¡Hola! Soy Dani
 
 Soy un desarrollador web en formación, apasionado por el aprendizaje constante, la tecnología y crear proyectos útiles y bonitos. Actualmente estoy cursando un FP de Desarrollo de Aplicaciones Web y desarrollando proyectos personales para mejorar mis habilidades.
 
