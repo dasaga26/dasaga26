@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre o Alias]
 
-<!--
-**dasaga26/dasaga26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web en formación, apasionado por el aprendizaje constante, la tecnología y crear proyectos útiles y bonitos. Actualmente estoy cursando un FP de Desarrollo de Aplicaciones Web y desarrollando proyectos personales para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y herramientas que estoy usando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧱 HTML | CSS | JavaScript
+- ⚙️ PHP | SQL | MySQL
+- 🧠 Laravel | Symfony (aprendiendo)
+- 🎨 Bootstrap | TailwindCSS
+- 📦 Git | GitHub
+
+## 🚀 Proyectos destacados
+
+- 🎓 **Plataforma de cursos tipo Udemy**  
+  Aplicación web donde se pueden crear, listar y gestionar cursos de informática. Incluye funcionalidades CRUD, autenticación y una base de datos estructurada.
+
+- 📚 **Marketplace de libros de segunda mano** (tipo Wallapop)  
+  Proyecto en desarrollo centrado en la compra y venta de libros. Incluye categorización, filtros avanzados y diseño adaptado a usuarios lectores.
+
+## 🎯 Objetivos actuales
+
+- Finalizar mis proyectos del ciclo formativo
+- Aprender sobre diseño UX/UI y accesibilidad web
+- Mejorar mi lógica de programación y estructura de código
+- Contribuir a proyectos open source
+
+## 🌱 Me interesa...
+
+- El desarrollo web full stack
+- El diseño limpio y funcional
+- La filosofía, psicología y desarrollo personal
+- Los videojuegos con tramas profundas y temas existenciales
+
+## 📫 Contacto
+
+Puedes encontrarme por aquí:  
+[LinkedIn](https://www.linkedin.com/in/tu-usuario/) | [Email](mailto:tu@email.com) *(si quieres añadirlo)*
+
+---
+
+> *“Elige una vida significativa, no cómoda.”* – Inspiración personal
+
+Gracias por visitar mi perfil 😊
