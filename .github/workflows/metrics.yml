@@ -20,10 +20,10 @@ jobs:
               with:
                   token: ${{ secrets.GITHUB_TOKEN }}
                   filename: metrics.svg
-                  
+
                   # Configuración base
                   base: header, activity, community, repositories, metadata
-                  
+
                   # Plugin de lenguajes más usados
                   plugin_languages: yes
                   plugin_languages_limit: 8
