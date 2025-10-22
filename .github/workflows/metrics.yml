@@ -1,23 +1,20 @@
-name: Metrics
+name: Update Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # se ejecuta todos los días
+  workflow_dispatch:       # permite ejecutarlo manualmente
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@v3
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.svg
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_colors: github
-          plugin_languages_threshold: 0%
+          github_token: ${{ secrets.METRICS_TOKEN }}
