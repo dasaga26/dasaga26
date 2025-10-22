@@ -63,9 +63,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web. Me apasiona crear proyectos fu
 
 ## 📊 Métricas de GitHub
 
-<p align="center">
   ![Metrics](./metrics.svg)
-</p>
 
 ---
 
