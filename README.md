@@ -38,7 +38,7 @@ Soy estudiante de Desarrollo de Aplicaciones Web. Me apasiona crear proyectos fu
 ## 📁 Proyectos destacados
 
 - 🎓 **Plataforma de cursos**  
-  Aplicación web con CRUD completo para cursos. Solamente java.
+  Aplicación web con CRUD completo para cursos. Solamente Java.
 
 - 📚 **Marketplace de libros de segunda mano**  
   Proyecto en desarrollo inspirado en Wallapop, centrado en la compraventa de libros. Incluye filtros, categorías, buscador, likes, register, login...
@@ -49,8 +49,9 @@ Soy estudiante de Desarrollo de Aplicaciones Web. Me apasiona crear proyectos fu
 
 - Aprender JavaScript avanzado
 - Desarrollar una web completa con autenticación de usuarios
-- Aprender a utilizar algun framework
-- Mejorar mis conocimientos sobre programacion centrado sobre todo en backend
+- Aprender a utilizar algún framework
+- Mejorar mis conocimientos sobre programación, centrado sobre todo en backend
+
 ---
 
 ## 🧠 Sobre mí
@@ -60,11 +61,10 @@ Soy estudiante de Desarrollo de Aplicaciones Web. Me apasiona crear proyectos fu
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasaga26&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasaga26&layout=compact&theme=radical" width="48%"/>
+  ![Metrics](./metrics.svg)
 </p>
 
 ---

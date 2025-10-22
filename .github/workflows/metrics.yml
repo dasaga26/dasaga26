@@ -1,0 +1,19 @@
+name: Update Metrics
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # se ejecuta todos los días a medianoche
+    workflow_dispatch: # permite ejecutarlo manualmente
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Generate Metrics
+              uses: lowlighter/metrics@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  config_path: .github/readme/config.yml
